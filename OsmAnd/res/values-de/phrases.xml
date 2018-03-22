@@ -27,7 +27,7 @@
 	<string name="poi_ambulance_station">Rettungswache</string>
 	<string name="poi_anime">Anime-Shop</string>
 	<string name="poi_antiques">Antiquitätenhändler</string>
-	<string name="poi_archaeological_site">Aarchäologischer Fundort</string>
+	<string name="poi_archaeological_site">Archäologischer Fundort</string>
 	<string name="poi_archery">Bogenschießen</string>
 	<string name="poi_architect">Architekturbüro</string>
 	<string name="poi_art">Kunsthandlung</string>
@@ -61,7 +61,7 @@
 	<string name="poi_beauty_salon_nails">Maniküre</string>
 	<string name="poi_bed">Schlafzimmereinrichtung</string>
 	<string name="poi_bedding">Bettwarengeschäft</string>
-	<string name="poi_craft_beekeeper">Bienenzüchter</string>
+	<string name="poi_craft_beekeeper">Imker</string>
 	<string name="poi_beverages">Getränkegeschäft</string>
 	<string name="poi_bicycle_parking">Fahrradständer</string>
 	<string name="poi_bicycle_rental">Fahrradvermietung</string>
@@ -81,7 +81,7 @@
 	<string name="poi_boules">Boule</string>
 	<string name="poi_boundary_stone">Grenzstein</string>
 	<string name="poi_boutique">Boutique</string>
-	<string name="poi_bowls">Schüsseln</string>
+	<string name="poi_bowls">Bowls</string>
 	<string name="poi_craft_brewery">Brauerei</string>
 	<string name="poi_bridge">Brücke</string>
 	<string name="poi_brothel">Bordell</string>
@@ -154,7 +154,7 @@
 	<string name="poi_craft_computer">Computer</string>
 	<string name="poi_computer">Computergeschäft</string>
 	<string name="poi_confectionery">Süßwaren</string>
-	<string name="poi_construction">Anlage</string>
+	<string name="poi_construction">Baustelle</string>
 	<string name="poi_convenience">Lebensmittelgeschäft</string>
 	<string name="poi_copyshop">Copy-Shop</string>
 	<string name="poi_cosmetics">Kosmetik</string>
@@ -285,7 +285,7 @@
 	<string name="poi_lawyer">Rechtsanwalt</string>
 	<string name="poi_leisure_track">Sportbahn</string>
 	<string name="poi_library">Bücherei</string>
-	<string name="poi_lift_gate">Schranken</string>
+	<string name="poi_lift_gate">Schranke</string>
 	<string name="poi_lighthouse">Leuchtturm</string>
 	<string name="poi_locality">Örtlichkeit</string>
 	<string name="poi_lock_gate">Schleusentor</string>
@@ -318,7 +318,7 @@
 	<string name="poi_sport_motor">Motorsport</string>
 	<string name="poi_motorcycle_parking">Motorradparkplatz</string>
 	<string name="poi_motorcycle">Motorradgeschäft</string>
-	<string name="poi_motorway_junction">Autobahnkreuz</string>
+	<string name="poi_motorway_junction">Autobahnanschlussstelle</string>
 	<string name="poi_mountain_pass">Passstraße</string>
 	<string name="poi_sport_multi">Multi-Sport</string>
 	<string name="poi_museum">Museum</string>
@@ -336,7 +336,7 @@
 	<string name="poi_optician">Optiker</string>
 	<string name="poi_optometrist">Optiker</string>
 	<string name="poi_orchard">Obstplantage</string>
-	<string name="poi_organic">Biolebensmittel</string>
+	<string name="poi_organic">Bioladen</string>
 	<string name="poi_orienteering">Orientierungslauf</string>
 	<string name="poi_outdoor">Outdoor-Geschäft</string>
 	<string name="poi_paddle_tennis">Tischtennis</string>
@@ -359,7 +359,7 @@
 	<string name="poi_craft_photographic_laboratory">Fotolabor</string>
 	<string name="poi_physiotherapist">Physiotherapeut</string>
 	<string name="poi_picnic_site">Picknickplatz</string>
-	<string name="poi_pier">Pier</string>
+	<string name="poi_pier">Anlegestelle</string>
 	<string name="poi_pitch">Sportplatz</string>
 	<string name="poi_place_allotments">Kleingartensiedlung</string>
 	<string name="poi_place_farm">Farm</string>
@@ -385,7 +385,7 @@
 	<string name="poi_power_substation">Umspannstation</string>
 	<string name="poi_power_transformer">Transformator</string>
 	<string name="poi_prison">Gefängnis</string>
-	<string name="poi_prosecutor">Staatsanwalt</string>
+	<string name="poi_prosecutor">Staatsanwaltschaft</string>
 	<string name="poi_psychotherapist">Psychotherapeut</string>
 	<string name="poi_pub">Kneipe</string>
 	<string name="poi_public_transport_platform">ÖPNV-Haltestelle</string>
@@ -405,7 +405,7 @@
 	<string name="poi_reef">Riff</string>
 	<string name="poi_register_office">Standesamt</string>
 	<string name="poi_research">Forschungseinrichtung</string>
-	<string name="poi_resort">Urlaubsort</string>
+	<string name="poi_resort">Urlaubs-Ressort</string>
 	<string name="poi_restaurant">Restaurant</string>
 	<string name="poi_ridge">Bergrücken</string>
 	<string name="poi_craft_rigger">Ausleger</string>
@@ -514,14 +514,14 @@
 	<string name="poi_supermarket">Supermarkt</string>
 	<string name="poi_surveillance">Überwachung</string>
 	<string name="poi_survey_point">Vermessungspunkt</string>
-	<string name="poi_craft_sweep">Kaminkehrer</string>
+	<string name="poi_craft_sweep">Schornsteinfeger</string>
 	<string name="poi_swimming">Schwimmen</string>
 	<string name="poi_swimming_pool">Schwimmbecken</string>
 	<string name="poi_table_tennis">Tischtennis</string>
 	<string name="poi_tableware">Tafelgeschirrgeschäft</string>
 	<string name="poi_craft_tailor">Schneider</string>
 	<string name="poi_tattoo">Tattoo-Studio</string>
-	<string name="poi_tax_inspection">Steuerprüfung</string>
+	<string name="poi_tax_inspection">Steuerprüfer</string>
 	<string name="poi_taxi">Taxi-Stand</string>
 	<string name="poi_office_telecommunication">Fernmeldeamt</string>
 	<string name="poi_telephone">Telefon</string>
@@ -533,7 +533,7 @@
 	<string name="poi_craft_tiler">Dachdecker</string>
 	<string name="poi_craft_tinsmith">Klempner</string>
 	<string name="poi_tobacco">Tabakwarengeschäft</string>
-	<string name="poi_toboggan">Rodel</string>
+	<string name="poi_toboggan">Rodelbahn</string>
 	<string name="poi_toilets">Toilette</string>
 	<string name="poi_toll_booth">Mautstelle</string>
 	<string name="poi_information">Informationen</string>
@@ -552,12 +552,12 @@
 	<string name="poi_tram_stop">Straßenbahnhaltestelle</string>
 	<string name="poi_travel_agent">Reisebüro</string>
 	<string name="poi_tunnel">Tunnel</string>
-	<string name="poi_turning_circle">Wendehammer</string>
+	<string name="poi_turning_circle">Wendestelle</string>
 	<string name="poi_university">Universität</string>
 	<string name="poi_craft_upholsterer">Tapezierer</string>
 	<string name="poi_vacuum_cleaner">Staubsaugergeschäft</string>
 	<string name="poi_variety_store">Kleinkaufhaus</string>
-	<string name="poi_vehicle_inspection">Fahrzeugkontrolle</string>
+	<string name="poi_vehicle_inspection">Fahrzeuginspektion</string>
 	<string name="poi_vehicle_ramp">Fahrzeugrampe</string>
 	<string name="poi_vending_machine">Verkaufsautomat</string>
 	<string name="poi_veterinary">Tierarzt</string>
